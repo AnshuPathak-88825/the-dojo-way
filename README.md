@@ -32,6 +32,7 @@ By adding your name to this document, you will be committing to adhere to these 
 1. And finally - [never reject yourself](https://twitter.com/ykdojo/status/1564252923483541504).
 
 ## Signed by:
+- [Anshu Pathak](https://twitter.com/Anshu_pathak12)
 - [YK Sugi](https://twitter.com/ykdojo)
 - [Subho Ghosh](https://twitter.com/subhoghosh_)
 - [Avie Fukai](https://twitter.com/AvieDev)
@@ -85,6 +86,3 @@ By adding your name to this document, you will be committing to adhere to these 
 - [Ali Reza](https://twitter.com/Ali_Developer05)
 - [Sunday odum](https://twitter.com/sundaycodes)
 - [Alexandros](https://twitter.com/CK0d3r)
-- [Kanika Gola](https://twitter.com/gola_kanika)
-- [xenseee](https://twitter.com/xenseee)
-- [Aarya Chopkar](https://twitter.com/ChopkarAarya)
